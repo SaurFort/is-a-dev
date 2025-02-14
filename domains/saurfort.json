@@ -1,0 +1,10 @@
+{
+  "repo": "https://github.com/saurfort/saurfort/tree/website",
+  "owner": {
+    "username": "saurfort",
+    "email": "contact@saurfort.fr"
+  },
+  "record": {
+    "CNAME": "saurfort.fr"
+  }
+}
